@@ -1,3 +1,3 @@
 # Calculator
 Calculator using JS
-![alt text]( Calculator/calculator Image.png at main · ezenielrios/Calculator (github.com))
+![alt text](https://github.com/ezenielrios/Calculator/commit/f15d994d4ea9e547cc43743865da06083695734c)
